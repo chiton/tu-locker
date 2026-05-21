@@ -152,6 +152,7 @@ export default function Home() {
             <SectionHeading
               description="Contratá por el tiempo que necesitás. Cuanto mayor es el plazo, mejor es el beneficio comercial."
               eyebrow="Planes y formas de pago"
+              surface="dark"
               title="Flexibilidad para personas y empresas"
             />
             <div className="mt-12 grid gap-6 md:grid-cols-3">
