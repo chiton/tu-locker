@@ -33,6 +33,11 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://tu-locker.com.ar",
   },
+  icons: {
+    icon: "/icon.svg",
+    shortcut: "/icon.svg",
+    apple: "/icon.svg",
+  },
 };
 
 export default function RootLayout({ children }: Readonly<{ children: ReactNode }>) {

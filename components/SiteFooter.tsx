@@ -1,3 +1,4 @@
+import { Logo } from "@/components/Logo";
 import { navItems, site, whatsappUrl } from "@/lib/site-data";
 
 export function SiteFooter() {
@@ -5,7 +6,7 @@ export function SiteFooter() {
     <footer className="bg-slate-950 text-white">
       <div className="mx-auto grid max-w-7xl gap-10 px-4 py-12 sm:px-6 md:grid-cols-3 lg:px-8">
         <div>
-          <p className="text-2xl font-black">tu-locker</p>
+          <Logo markClassName="h-14 w-14" variant="dark" />
           <p className="mt-3 max-w-sm text-sm leading-6 text-slate-300">
             Espacios de almacenamiento seguros y flexibles para personas, familias y empresas en Bahía Blanca.
           </p>
