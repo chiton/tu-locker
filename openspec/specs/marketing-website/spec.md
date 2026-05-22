@@ -1,4 +1,8 @@
-## ADDED Requirements
+## Purpose
+
+Define the Spanish marketing website behavior, content, visual quality, contact paths, SEO basics, and brand presentation for tu-locker, a self-storage and guardamuebles business serving Bahia Blanca.
+
+## Requirements
 
 ### Requirement: Complete Spanish Landing Page
 The system SHALL provide a complete Spanish marketing website for tu-locker that communicates self-storage and guardamuebles services for personal and commercial customers at `tu-locker.com.ar`.
